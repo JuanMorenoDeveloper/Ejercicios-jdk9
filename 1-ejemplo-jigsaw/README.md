@@ -1,4 +1,4 @@
-#Coompilación y ejecución
+#Compilación y ejecución
 
 Compilar:
 javac -d modules\com.proitc.testjigsaw src/com.proitc.testjigsaw/module-info.java src/com.proitc.testjigsaw/com/proitc/testjigsaw/*
